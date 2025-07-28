@@ -2,7 +2,8 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <div className=''>
+    //Home component where the main content will be displayed
+     <div className=''>
         
     </div>
   )
